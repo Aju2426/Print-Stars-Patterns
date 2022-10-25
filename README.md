@@ -1,4 +1,3 @@
 # Print-Stars-Patterns
 
-# print * in the following pattern
-
+Python code for printing Stars (*) in the different patterns.
